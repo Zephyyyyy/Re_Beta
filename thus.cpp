@@ -1,6 +1,10 @@
-#include <studio>
+#include <iostream>
+using namespace std;
+
 int main()
+
 {
-	prindf("%d/n",Hello)
+	cout << "Hello" <<endl;
+
 	return 0
 }
